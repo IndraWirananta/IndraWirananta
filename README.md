@@ -6,7 +6,7 @@ Currently interested in flutter/ front-end stuff.
 
 ##Interest etc
 
-⚡ Lang : Python, Dart, C++, Javascript.'
+⚡ Lang : Python, Dart, C++, Javascript.'\n
 🔭 I’m currently working on Sirkadian, as a head of front-end.
 🌱 I’m currently learning complete flutter app development. 
 👯 I’m currently collaborate in working on Sirkadian app.
