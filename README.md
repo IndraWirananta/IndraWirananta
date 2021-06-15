@@ -1,10 +1,13 @@
 ### Hi there, Indra Wirananta here.
 
 Undergraduate in Information Technology at Telkom University.
+
 Freelance graphic designer.
+
 Currently interested in flutter/ front-end stuff.
 
-##Interest etc
+
+- Interest etc
 
 ⚡ Lang : Python, Dart, C++, Javascript.
 
