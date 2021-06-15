@@ -7,7 +7,8 @@ Freelance graphic designer.
 Currently interested in flutter/ front-end stuff.
 
 
-Interest etc
+
+Interest :
 
 ⚡ Lang : Python, Dart, C++, Javascript.
 
