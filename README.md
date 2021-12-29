@@ -1,19 +1,13 @@
 ### Hi there, Indra Wirananta here.
 
 Undergraduate in Information Technology at Telkom University.
-
-Freelance graphic designer.
-
-Currently interested in flutter/ front-end stuff.
+Currently working on a project called Companion, which uses firestore to store data from NodeMCU, and then be displayed on a web apps.
 
 
+⚡  Lang : Python, Dart, C/C++, Javascript, PHP, SQL, Java
+🌱  Framework : CI, Flutter, React
+ 📫 Other : Sass, Three.js, Chart.js, Firebase/firestore
 
-Interest :
-
-⚡ Lang : Python, Dart, C++, Javascript.
-
-
-🌱 I’m currently learning complete flutter app development. 
 
 
 <!--
